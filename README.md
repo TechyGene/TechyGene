@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechyGene
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning Management Information Systems
+- 🌱 I’m currently learning full-stack development.
 - 💞️ I’m looking to collaborate on creating seamless applications for SMEs
 - 📫 How to reach me >> Twitter @techygene
 
